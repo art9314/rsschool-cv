@@ -13,6 +13,7 @@
 ### About Myself:
 I like tasks that require individual creativity. I work best in a team, I value honesty and work ethic. 
 In my spare time I do testing and programming. I study technical literature. 
+
 ---
 ### Skills:
 - Python (Framework Django, OOP, ORM, MVC, CRUD)           
