@@ -8,7 +8,7 @@
 - E-mail: *art9314@mail.ru*
 - GitHub: *https://github.com/art9314*
 - LinkedIn: *linkedin.com/in/artyom-voronin-aab6b8128*
-- Discord: *art9314#8202*
+- Discord: *art9314*
 ---
 ### About Myself:
 I like tasks that require individual creativity. I work best in a team, I value honesty and work ethic. 
