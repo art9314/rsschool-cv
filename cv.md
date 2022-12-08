@@ -30,7 +30,7 @@ In my spare time I do testing and programming. I study technical literature.
 - Jira
 - Postman
 - Trello
-- Java Script(basic)
+- Java Script (basic)
 ---
 ### Code examples:
 ```
@@ -55,9 +55,9 @@ Currently working as a Lead Engineer. My bookstore project on GitHub: https://gi
 ### Education:
 - BSU (Magistry, "Photonics")
 - QA Academy ("Software testing")
-- IT Academy("Development of web applications on Python")
+- IT Academy ("Development of web applications on Python")
 ---
 ### Language:
-- Russian(Native)
-- English(Intermediate)
+- Russian (Native)
+- English (Intermediate)
 ---
