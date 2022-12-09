@@ -57,6 +57,7 @@ Currently working as a Lead Engineer. My bookstore project on GitHub: https://gi
 - QA Academy \("Software testing"\)
 - IT Academy \("Development of web applications on Python"\)
 ---
+
 ### Language:
 - Russian \(Native\)
 - English \(Intermediate\)
