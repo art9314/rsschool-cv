@@ -1,0 +1,112 @@
+@font-face {
+    font-family: 'Inter';
+     src: url("assets/fonts/Inter/Inter-VariableFont_slnt\,wght.ttf");
+   }
+
+* {
+    box-sizing: border-box;
+  }
+
+h1 {
+  color: #101110; 
+  font-size: 28pt; 
+  font-family: "Arial"; 
+  font-weight: bold;
+}
+
+p {
+  text-align: justify;
+}
+
+body {
+  box-sizing: border-box;    
+  font-family: "Inter"; 
+  font-weight: 500;
+  font-size: 5pt; 
+  background-color: #C2C2C3;
+  min-height: 100vh;
+  margin: 0; 
+  padding: 0;
+}
+
+.container-center {
+  margin: 20px auto;
+  width: 1024px;
+  font-family: "Inter", sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+  background-color: #fffbfb;  
+}
+
+main h3 {
+  width: 140px;
+  margin: 45px auto 30px;
+  padding: 5px 5px ;
+  text-align: center;
+  text-transform: uppercase;    
+  color: #000000;
+  background-color: #d1b84c;
+  text-decoration:underline;
+  font-size: 20px;
+}
+
+main li {
+  margin-bottom: 12px;
+}
+
+.two-columns {
+  display: flex;
+  font-size: 20px;
+}
+
+.first_column {
+  width: 40%;
+  color: #090909;
+  background-color: #19b89b;
+}
+
+.second_column {
+  width: 61%;
+  padding: 40px;
+  background-color: #d1b84c;
+}
+
+.second_column h3{
+  text-transform: uppercase; 
+  color: #000000;
+  text-decoration:underline;
+  }
+
+header {
+  padding: 30px;
+  text-align: center;
+  background-color: #9e9ea2;;
+}
+
+.contacts p{text-align: justify;
+  margin: -30px 35px 10px;  
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 40px;
+  font-size: 1.2rem;
+  color: #161515;
+  background-color: #ffffff ;
+}
+
+footer.a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.github {
+  display: flex;
+  align-items: center;
+}
+
+footer.github-icon {
+  margin-right: 12px;
+}
